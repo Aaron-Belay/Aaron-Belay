@@ -10,7 +10,7 @@ Hey there! I'm Aaron Belay, a passionate second-year Computer Engineering studen
 
 
 ## Connect with Me
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/aaron-belay](https://www.linkedin.com/in/aaron-belay-0797b01bb/))
+- 🌐 LinkedIn: https://www.linkedin.com/in/aaron-belay-0797b01bb/
 - 📧 Email: aaronbelay77@gmail.com
 
 Feel free to explore my projects, and don't hesitate to reach out if you have any questions or just want to connect. Happy coding! 🚀
