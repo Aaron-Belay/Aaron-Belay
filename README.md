@@ -6,8 +6,6 @@ Hey there! I'm Aaron Belay, a passionate second-year Computer Engineering studen
 - 🎓 Currently pursuing a degree in Computer Engineering at the University of Toronto.
 - 🏀 Basketball Enthusiast: On and off the code, I love shooting hoops and staying active.
 - 🎱 Billiard Pool Fanatic: When I'm not immersed in code, you might find me strategizing on the pool table.
-- 🎮 Gaming Aficionado: Whenever I manage to squeeze in some free time, I enjoy gaming adventures.
-
 
 ## Connect with Me
 - 🌐 LinkedIn: https://www.linkedin.com/in/aaron-belay-0797b01bb/
