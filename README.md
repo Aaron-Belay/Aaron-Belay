@@ -1,6 +1,6 @@
 # Welcome to My Coding Playground! 👋
 
-Hey there! I'm Aaron Belay, a passionate second-year Computer Engineering student at the University of Toronto. This is my space where I showcase various coding projects and experiments.
+Hey there! I'm Aaron Belay, a passionate third-year Computer Engineering student at the University of Toronto. This is my space where I showcase various coding projects and experiments.
 
 ## About Me
 - 🎓 Currently pursuing a degree in Computer Engineering at the University of Toronto.
